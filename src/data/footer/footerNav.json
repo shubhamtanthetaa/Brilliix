@@ -36,23 +36,19 @@
         "path": "/categories"
       },
       {
-        "name": "Conditionar",
+        "name": "Conditioner",
         "path": "/categories"
       },
       {
-        "name": "hair oil",
+        "name": "Hair oil",
         "path": "/categories"
       },
       {
-        "name": "serum",
+        "name": "Serum",
         "path": "/categories"
       },
       {
-        "name": "Shampoo&conditionar",
-        "path": "/categories"
-      },
-      {
-        "name": "Shampoo&conditionar&seru",
+        "name": "Shampoo & Conditioner",
         "path": "/categories"
       }
     ]
