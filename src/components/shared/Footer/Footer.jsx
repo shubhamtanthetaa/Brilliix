@@ -5,7 +5,7 @@ import Link from 'next/link';
 import { NavCol } from './NavCol/NavCol';
 
 export const Footer = () => {
-  const footerLogo = '/assets/img/footer-logo.svg';
+  const footerLogo = '/assets/img/footer logo.png';
 
   const footerNav = [...footerNavData];
   const footerSocial = [...socialData];
@@ -58,19 +58,19 @@ export const Footer = () => {
               <span className="footer-nav__col-title">Contact</span>
               <ul>
                 <li>
-                  <i className="icon-map-pin"></i> 27 Division St, New York, NY
-                  10002, USA
+                  <i className="icon-map-pin"></i> 431, Rashika Optima, Nr. River Heaven,
+                  Mota Varachha, Surat, Gujarat, India 394101
                 </li>
                 <li>
                   <i className="icon-smartphone"></i>
                   <div className="footer-nav__col-phones">
-                    <a href="tel:+13459971345">+1 345 99 71 345</a>
-                    <a href="tel:+13457464975">+1 345 74 64 975</a>
+                    <a href="tel:+13459971345">+91 9081821836</a>
+                    {/* <a href="tel:+13457464975">+1 345 74 64 975</a> */}
                   </div>
                 </li>
                 <li>
                   <i className="icon-mail"></i>
-                  <a href="mailto:info@beshop.com">info@beshop.com</a>
+                  <a href="mailto:info@beshop.com">customer.care@brillix.in</a>
                 </li>
               </ul>
             </div>

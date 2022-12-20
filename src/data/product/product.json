@@ -1,8 +1,8 @@
 [
   {
     "name": "Rice water",
-    "oldPrice": "249.95",
-    "price": "200.95",
+    "oldPrice": "545",
+    "price": "499",
     "id": "12132klj2322",
     "isSale": true,
     "isNew": false,
@@ -60,8 +60,8 @@
   },
   {
     "name": "Keratin",
-    "oldPrice": "149.50",
-    "price": "100.90",
+    "oldPrice": "545",
+    "price": "499",
     "id": "12132klj1213",
     "isSale": true,
     "isNew": false,
@@ -121,8 +121,8 @@
   },
   {
     "name": "Red Onion",
-    "oldPrice": "549.95",
-    "price": "200.95",
+    "oldPrice": "545",
+    "price": "499",
     "id": "12132klj232453",
     "isSale": false,
     "isNew": true,
@@ -180,8 +180,8 @@
   },
   {
     "name": "Egg protection",
-    "oldPrice": "249.95",
-    "price": "200.95",
+    "oldPrice": "545",
+    "price": "499",
     "id": "12132klj2121212",
     "isSale": true,
     "isNew": false,
@@ -239,8 +239,8 @@
   },
   {
     "name": "Rice water",
-    "oldPrice": "249.95",
-    "price": "200.95",
+    "oldPrice": "645",
+    "price": "499",
     "id": "12132klj24444",
     "isSale": true,
     "isNew": false,
@@ -298,8 +298,8 @@
   },
   {
     "name": "Keratin",
-    "oldPrice": "249.95",
-    "price": "200.95",
+    "oldPrice": "645",
+    "price": "499",
     "id": "12132klj2322321",
     "isSale": true,
     "isNew": true,
@@ -357,8 +357,8 @@
   },
   {
     "name": "Red Onion",
-    "oldPrice": "249.95",
-    "price": "200.95",
+    "oldPrice": "645",
+    "price": "499",
     "id": "12132klj2121213",
     "isSale": false,
     "isNew": true,
@@ -416,8 +416,8 @@
   },
   {
     "name": "Egg protection",
-    "oldPrice": "249.95",
-    "price": "200.95",
+    "oldPrice": "645",
+    "price": "499",
     "id": "12132klj24445",
     "isSale": false,
     "isNew": true,
@@ -475,8 +475,8 @@
   },
   {
     "name": "Red Onion",
-    "oldPrice": "249.95",
-    "price": "200.95",
+    "oldPrice": "495",
+    "price": "399",
     "id": "12132klj23223233",
     "isSale": true,
     "isNew": false,
@@ -535,8 +535,8 @@
 
   {
     "name": "Hair Serum",
-    "oldPrice": "249.95",
-    "price": "200.95",
+    "oldPrice": "829",
+    "price": "599",
     "id": "12132klj212152",
     "isSale": true,
     "isNew": true,
@@ -594,8 +594,8 @@
   },
   {
     "name": "Rice water",
-    "oldPrice": "249.95",
-    "price": "200.95",
+    "oldPrice": "1190",
+    "price": "998",
     "id": "12132klj244000",
     "isSale": true,
     "isNew": true,
@@ -653,8 +653,8 @@
   },
   {
     "name": "Keratin",
-    "oldPrice": "249.95",
-    "price": "200.95",
+    "oldPrice": "1190",
+    "price": "998",
     "id": "12132klj23223766d",
     "isSale": false,
     "isNew": true,
@@ -713,8 +713,8 @@
 
   {
     "name": "Red Onion",
-    "oldPrice": "249.95",
-    "price": "200.95",
+    "oldPrice": "1190",
+    "price": "998",
     "id": "121asdglj23223233",
     "isSale": true,
     "isNew": false,
@@ -773,8 +773,8 @@
 
   {
     "name": "Egg protection",
-    "oldPrice": "249.95",
-    "price": "200.95",
+    "oldPrice": "1190",
+    "price": "998",
     "id": "12132klqrt12152",
     "isSale": true,
     "isNew": true,
@@ -832,8 +832,8 @@
   },
   {
     "name": "Rice water",
-    "oldPrice": "249.95",
-    "price": "200.95",
+    "oldPrice": "2019",
+    "price": "1597",
     "id": "12132klj223ssx00",
     "isSale": true,
     "isNew": true,
@@ -891,8 +891,8 @@
   },
   {
     "name": "Keratin",
-    "oldPrice": "249.95",
-    "price": "200.95",
+    "oldPrice": "2019",
+    "price": "1597",
     "id": "12132klj23w22766d",
     "isSale": false,
     "isNew": true,
@@ -950,8 +950,8 @@
   },
   {
     "name": "Red Onion",
-    "oldPrice": "249.95",
-    "price": "200.95",
+    "oldPrice": "2019",
+    "price": "1597",
     "id": "12132klj23w22766d",
     "isSale": false,
     "isNew": true,
@@ -1009,8 +1009,8 @@
   },
   {
     "name": "Egg protection",
-    "oldPrice": "249.95",
-    "price": "200.95",
+    "oldPrice": "2019",
+    "price": "1597",
     "id": "12132klj23w22766d",
     "isSale": false,
     "isNew": true,
