@@ -49,7 +49,7 @@ export const Info = () => {
                 videoUrl={url}
                 play={play}
                 onVideoPlay={() => setPlay(true)}
-                image="/assets/img/info-item-img2.jpg"
+                image="/assets/img/EMF01601.jpg"
               />
             </div>
             <div className="info-blocks__item-text">

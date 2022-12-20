@@ -2,26 +2,31 @@
   {
     "categoryId": "Conditioner",
     "name": "Conditioner",
-    "image": "/assets/img/top-categories-img1.jpg"
+    "image": "/assets/img/EMF01069.jpg"
   },
   {
     "categoryId": "Serum",
     "name": "Serum",
-    "image": "/assets/img/top-categories-img2.jpg"
+    "image": "/assets/img/EMF01385.jpg"
   },
   {
     "categoryId": "Hair oil",
     "name": "Hair oil",
-    "image": "/assets/img/top-categories-img3.jpg"
+    "image": "/assets/img/EMF01612.jpg"
   },
   {
     "categoryId": "Shampoo",
     "name": "Shampoo",
-    "image": "/assets/img/top-categories-img4.jpg"
+    "image": "/assets/img/EMF01819.jpg"
   },
   {
-    "categoryId": "Shampoo ",
-    "name": "Shampoo & Conditioner",
-    "image": "/assets/img/top-categories-img5.jpg"
+    "categoryId": "Shampoo&Conditioner",
+    "name": "Shampoo&Conditioner",
+    "image": "/assets/img/EMF01589.jpg"
+  },
+  {
+    "categoryId": "Shampoo,Conditioner&Serum",
+    "name": "Shampoo,Conditioner&Serum",
+    "image": "/assets/img/8. Rice Water Shampoo + Conditioner + Hair Serum.jpg"
   }
 ]

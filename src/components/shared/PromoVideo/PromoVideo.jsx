@@ -9,9 +9,8 @@ export const PromoVideo = ({ play, videoUrl, onVideoPlay, image }) => {
       ></iframe>
       {!play && (
         <div className='info-blocks__item-img-overlay'>
-          <span>Promotion video</span>
+          <span></span>
           <div onClick={onVideoPlay} className='info-blocks__item-img-play'>
-            <img src='/assets/img/play-btn.png' className='js-img' alt='' />
           </div>
         </div>
       )}
