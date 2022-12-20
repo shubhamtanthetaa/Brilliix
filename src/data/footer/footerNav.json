@@ -50,6 +50,10 @@
       {
         "name": "Shampoo & Conditioner",
         "path": "/categories"
+      },
+       {
+        "name": "Shampoo,Conditioner&serum",
+        "path": "/categories"
       }
     ]
   },

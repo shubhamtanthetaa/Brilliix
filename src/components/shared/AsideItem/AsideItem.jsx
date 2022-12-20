@@ -12,7 +12,7 @@ export const AsideItem = ({ aside }) => {
           </div>
           <div className='shop-aside__item-product-info'>
             <span className='shop-aside__item-product-title'>{name}</span>
-            <span className='shop-aside__item-product-price'>${price}</span>
+            <span className='shop-aside__item-product-price'>Rs.{price}</span>
             <ul className='star-rating'>
               {[...Array(star)].map((star, index) => {
                 <li key={index}>
