@@ -6,7 +6,7 @@ export const AboutDiscount = () => {
       {/* <!-- BEGIN DISCOUNT --> */}
       <div
         className="discount discount-about js-img"
-        style={{ backgroundImage: `url('/assets/img/discount-bg2.jpg')` }}
+        style={{ backgroundImage: `url('/assets/img/EMF01515.jpg')` }}
       >
         <div className="wrapper">
           <div className="discount-info">
