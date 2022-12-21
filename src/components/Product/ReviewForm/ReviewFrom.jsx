@@ -14,7 +14,7 @@ export const ReviewFrom = () => {
       {/* <!-- Product Review Form --> */}
       <div className="product-detail__form post-comment__form">
         <div className="subscribe-form__img">
-          <img src="/assets/img/5. Keratin Shampoo + Conditioner + Serum.png" />
+          <img src="discount-bg.png" />
         </div>
         <form>
           <h4>leave a review</h4>
