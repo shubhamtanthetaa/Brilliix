@@ -45,7 +45,7 @@ export const PostContent = ({ blog }) => {
         </ul>
         <div
           className='discount discount-about js-img'
-          style={{ backgroundImage: `url(${blog.discount.thumb})` }}
+          style={{ backgroundImage: `url('/assets/img/product-img4.jpg')` }}
         >
           <div className='wrapper'>
             <div className='discount-info'>

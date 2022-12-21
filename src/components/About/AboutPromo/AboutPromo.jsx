@@ -26,7 +26,7 @@ export const AboutPromo = () => {
               videoUrl={url}
               play={play}
               onVideoPlay={() => setPlay(true)}
-              image='/assets/img/promo-video-img.jpg'
+              image='/assets/img/EMF02286.jpg'
             />
           </div>
 
