@@ -192,7 +192,7 @@ h6,
 .main-text {
   display: block;
   font-family: "Tenor Sans";
-  color: #222222;
+  color: #ffff;
   font-size: 100px;
   margin-bottom: 30px;
   margin-top: 4px;
@@ -231,7 +231,7 @@ h6,
   z-index: 1;
 
   &__content {
-    margin-left: -8px;
+    margin-left: -44px;
   }
 
   &__decor {
@@ -728,21 +728,21 @@ h6,
         margin-bottom: 51px;
         z-index: 1;
         margin-top: 44px;
+        color: #ffff;
 
         &:after {
           content: "";
           position: absolute;
-          left: 50%;
-          top: 50%;
           transform: translate(-50%, -50%);
           width: 166px;
           height: 66px;
-          background-image: url(/assets/img/top-categories-decor.png);
+          // background-image: url(/assets/img/top-categories-decor.png);
           background-size: contain;
           background-repeat: no-repeat;
           background-position: center;
           transition: $transition;
           z-index: -1;
+          color:#ffff;
         }
       }
     }
@@ -1244,7 +1244,7 @@ h6,
     width: calc(33.3% - 30px);
     background: #faf9ff;
     border: 1px solid #eeeeee;
-    padding: 26px 56px 26px 42px;
+    padding: 26px 52px 26px 42px;
     display: flex;
     align-items: center;
     text-align: left;
@@ -1383,7 +1383,7 @@ h6,
         transform: translate(-50%, -50%);
         width: 110.52px;
         height: 94.85px;
-        background-image: url(/assets/img/promo-video__num-decor.png);
+        background-image: url();
         background-size: contain;
         background-repeat: no-repeat;
         background-position: center;
@@ -1566,8 +1566,8 @@ h6,
     }
 
     .discount-info {
-      max-width: 470px;
-      margin-right: 82px;
+      max-width: 450px;
+      margin-right: 0px;
 
       p {
         padding-left: 0;
@@ -2353,7 +2353,7 @@ blockquote,
   li {
     font-size: 16px;
     line-height: 170%;
-    color: #666666;
+    color: black;
     margin-bottom: 0px;
 
     span {
@@ -6213,6 +6213,7 @@ input[type="search"]::-webkit-search-results-decoration {
   .discount li {
     font-size: 14px;
     line-height: 150%;
+    color: #0000;
   }
 
   .post .discount {

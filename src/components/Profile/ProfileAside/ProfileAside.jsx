@@ -48,7 +48,7 @@ export const ProfileAside = () => {
         </div>
         <div
           className='profile-aside__discount js-img'
-          style={{ backgroundImage: `url('/assets/img/discount-bg-sm.jpg')` }}
+          style={{ backgroundImage: `url('/assets/img/EMF02803.jpg')` }}
         >
           <div className='profile-aside__discount-title'>
             Get Your

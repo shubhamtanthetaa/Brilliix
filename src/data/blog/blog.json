@@ -40,7 +40,7 @@
     ],
     "discount": {
       "productId": "123",
-      "thumb": "/assets/img/discount-bg4.jpg",
+      "thumb": "",
       "silentText": "Perfume",
       "title": "about aromas in more detail",
       "subTitle": "In 1990, the French Perfume Committee approved the following classification:",
@@ -234,7 +234,7 @@
     "subTitle": "What is actually on your table?",
     "title": "Best multi-step skin care treatment",
     "id": "2633",
-    "image": "/assets/img/blog-img3.jpg",
+    "image": "/assets/img/EMF02299.jpg",
     "shortDescription": "Nourish your skin with toxin-free cosmetic products. With the offers that yo skin with toxin-free cosmetic products that you can’t refuse.",
     "date": {
       "month": "june",

@@ -42,11 +42,7 @@ export const PostComment = ({ blog }) => {
 
       <div className="post-comment__form">
         <div className="subscribe-form__img">
-          <img
-            src="/assets/img/5. Keratin Shampoo + Conditioner + Serum.png"
-            className="js-img"
-            alt=""
-          />
+          <img src="/assets/img/discount.png" className="js-img" alt="" />
         </div>
         <form>
           <h3>Leave a comment</h3>
