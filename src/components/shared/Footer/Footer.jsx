@@ -58,7 +58,7 @@ export const Footer = () => {
               <span className="footer-nav__col-title">Contact</span>
               <ul>
                 <li>
-                  <i className="icon-map-pin"></i> 431, Rashika Optima, Nr. River Heaven,
+                  <i className="icon-map-pin"></i> 431, Radhika Optima, Nr. River Heaven,
                   Mota Varachha, Surat, Gujarat, India 394101
                 </li>
                 <li>
