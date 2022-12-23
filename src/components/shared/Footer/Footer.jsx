@@ -1,11 +1,11 @@
-import footerNavData from 'data/footer/footerNav';
-import paymentMethodData from 'data/footer/payment';
-import socialData from 'data/social';
-import Link from 'next/link';
-import { NavCol } from './NavCol/NavCol';
+import footerNavData from "data/footer/footerNav";
+import paymentMethodData from "data/footer/payment";
+import socialData from "data/social";
+import Link from "next/link";
+import { NavCol } from "./NavCol/NavCol";
 
 export const Footer = () => {
-  const footerLogo = '/assets/img/footer logo.png';
+  const footerLogo = "/assets/img/footer logo.png";
 
   const footerNav = [...footerNavData];
   const footerSocial = [...socialData];
@@ -58,8 +58,8 @@ export const Footer = () => {
               <span className="footer-nav__col-title">Contact</span>
               <ul>
                 <li>
-                  <i className="icon-map-pin"></i> 431, Radhika Optima, Nr. River Heaven,
-                  Mota Varachha, Surat, Gujarat, India 394101
+                  <i className="icon-map-pin"></i> 431, Radhika Optima, Nr.
+                  River Heaven, Mota Varachha, Surat, Gujarat, India 394101
                 </li>
                 <li>
                   <i className="icon-smartphone"></i>
@@ -76,7 +76,7 @@ export const Footer = () => {
             </div>
           </div>
           <div className="footer-copy">
-            <span>&copy; All rights reserved. Brillix 2020</span>
+            <span>&copy; All rights reserved. Brillix 2022</span>
           </div>
         </div>
       </footer>
